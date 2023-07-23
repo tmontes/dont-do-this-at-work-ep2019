@@ -1,0 +1,19 @@
+[H[2J
+
+    Don't do this at work?
+    ----------------------
+
+    Extending the game:
+
+    - Distributed network-based play?
+
+    - Create an event loop for async turtles?
+
+    - Learn about, and fix race-conditions?
+
+    - Have an AI/ML-powered beast?
+
+
+    What could we learn?
+
+
